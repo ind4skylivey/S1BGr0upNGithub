@@ -483,7 +483,7 @@ table.files td.icon .octicon-file-directory {
   border-radius: 6px;
   transition: transform 0.3s ease, box-shadow 0.3s ease, border-color 0.3s ease;
 }
-.Box:hover {
+.Box:not(.Overlay):not(.details-dialog):not([role="dialog"]):hover {
   transform: scale(1.01);
   box-shadow: 0 10px 30px rgba(0, 0, 0, 0.5), 0 0 15px rgba(0, 243, 255, 0.15);
   z-index: 5;
@@ -1980,7 +1980,7 @@ body {
 
   /* Hover effect for repo cards and boxes */
   .pinned-item-list-item:hover,
-  .Box:hover,
+  .Box:not(.Overlay):not(.details-dialog):not([role="dialog"]):hover,
   .col-md-9.pl-md-5.mt-1.mb-4 .mb-6.mb-md-0:hover {
     transform: translateY(-4px) scale(1.01);
     z-index: 10;
@@ -2000,7 +2000,6 @@ body {
     box-shadow: 0 0 15px rgba(255, 0, 255, 0.5),
                 inset 0 0 5px rgba(255, 0, 255, 0.2) !important;
     color: #fff !important;
-    transform: scale(1.01);
   }
 
   /* --- 5. HOLOGRAPHIC BUTTONS --- */
