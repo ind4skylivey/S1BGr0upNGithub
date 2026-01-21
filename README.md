@@ -2,7 +2,7 @@
 
 A stunning, vibrant GitHub theme by **S1B Gr0up** featuring glassmorphism effects, animated backgrounds, and a cyberpunk aesthetic.
 
-![S1B Gr0up Theme Preview](preview.png)
+![S1B Gr0up Theme Banner](s1b_group_wallpaper.jpg)
 
 > 🔓 **By S1B Gr0up** - Offensive Security Specialists
 
@@ -100,10 +100,12 @@ This theme is released under the CC-BY-4.0 License. Feel free to use, modify, an
 
 ## 👤 Author
 
-**ind4skylivey** (they/them)
+**S1B Gr0up** - Offensive Security Specialists
 
+- Lead Developer: **ind4skylivey** (they/them)
 - GitHub: [@ind4skylivey](https://github.com/ind4skylivey)
-- Offensive Security Specialist — Red Team & Malware Analysis 🔓
+- Organization: [S1B Gr0up](https://github.com/s1bgroup)
+- Specialization: Red Team & Malware Analysis 🔓
 
 ## 🙏 Acknowledgments
 
